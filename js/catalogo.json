@@ -1,0 +1,50 @@
+[
+
+	{
+		"producto": "Nuez moscada",
+		"precio": "$120"
+		
+    },
+    
+	{
+		"producto": "Higos rellenos",
+		"precio": "$1500"
+    },
+    
+    {
+		"producto": "Milanesa de soja",
+		"precio": "$600"
+    },
+
+    {
+		"producto": "Aceite de coco",
+		"precio": "$1400"
+		
+    },
+    
+	{
+		"producto": "Albumina de huevo",
+		"precio": "$389.00"
+    },
+    
+    {
+		"producto": "Alga nory",
+		"precio": "$279.00"
+    },
+    {
+		"producto": "Arroz carnaroli x 500gr",
+		"precio": "$99.00"
+		
+    },
+    
+	{
+		"producto": "Arroz Yamani",
+		"precio": "$285.00"
+    },
+    
+    {
+		"producto": "Bolitas de cereal x 200gr",
+		"precio": "$115.00"
+    }
+
+]

@@ -1,0 +1,34 @@
+[
+
+	{
+		"imagen": "img/producto2.jpg",
+		"nombre": "Teclado",
+		"precio": "$12000",
+		"id": 7
+	},
+	{
+		"imagen": "img/producto3.jpg",
+		"nombre": "Gabinete",
+		"precio": "$18000",
+		"id": 8
+	},
+	{
+		"imagen": "img/producto4.jpg",
+		"nombre": "Monitor",
+		"precio": "$15000",
+		"id": 9
+	},
+	{
+		"imagen": "img/producto5.jpg",
+		"nombre": "Placa de Video",
+		"precio": "$25000",
+		"id": 10
+	},
+	{
+		"imagen": "img/producto6.jpg",
+		"nombre": "Microprocesador",
+		"precio": "$65000",
+		"id": 11
+	}
+	
+]
